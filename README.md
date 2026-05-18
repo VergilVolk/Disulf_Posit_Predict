@@ -1,5 +1,5 @@
 # 链间二硫键预测工具 v1.4
-### 交流，调试请联系 jmwang24@outlook.com / wxid：wangjiamu1226
+### 交流，调试请联系 jmwang24@outlook.com 
 ## 简介
 基于 AlphaFold-Multimer 预测两条蛋白链的复合物结构，通过分析跨链半胱氨酸硫原子距离自动识别链间二硫键。支持单条 FASTA、批量块格式、多序列成对模式。
 
