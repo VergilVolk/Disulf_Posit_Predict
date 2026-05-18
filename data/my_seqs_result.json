@@ -1,0 +1,17 @@
+{
+  "disulfides": [
+    [
+      7,
+      7
+    ],
+    [
+      20,
+      19
+    ]
+  ],
+  "pdb_file": "C:\\Users\\21597\\AppData\\Local\\Temp\\tmp840ad1g_\\A_B_unrelaxed_rank_001_alphafold2_multimer_v3_model_1_seed_000.pdb",
+  "sequences": {
+    "chain1": "GIVEQCCTSICSLYQLENYCN",
+    "chain2": "FVNQHLCGSHLVEALYLVCGERGFFYTPKT"
+  }
+}
